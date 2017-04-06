@@ -71,7 +71,7 @@ public class GradeConverterApp {
 			else if (numericalGrade < 87)
 				letterGrade = "B";
 			else if (numericalGrade <=100)
-				letterGrade = "A";
+				letterGrade = "A+";
 				
 			System.out.println("Letter Grade: " + letterGrade);
 			System.out.println();
